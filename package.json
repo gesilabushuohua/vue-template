@@ -1,0 +1,19 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "description": "vue template test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.me:gesilabushuohua/vue-template.git"
+  },
+  "keywords": [
+    "vue",
+    "template"
+  ],
+  "author": "bing",
+  "license": "ISC"
+}
